@@ -1,0 +1,2 @@
+[29-Feb-2024 04:11:45 UTC] PHP Warning:  rename(C:\Windows\TEMP/blocksy-companion.2.0.26-3Q6ZaW.tmp,C:\Windows\TEMP/blocksy-companion.2.0.26.zip): Access is denied (code: 5) in C:\Users\cedru\Local Sites\moodul-3\app\public\wp-admin\includes\file.php on line 1234
+[29-Feb-2024 04:11:45 UTC] PHP Warning:  unlink(C:\Windows\TEMP/blocksy-companion.2.0.26.zip): Resource temporarily unavailable in C:\Users\cedru\Local Sites\moodul-3\app\public\wp-admin\includes\file.php on line 1239
